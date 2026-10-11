@@ -176,3 +176,4 @@ git push
 
 - Ouvrez ensuite votre dépôt GitHub dans le navigateur de votre PC et vérifiez que tous les fichiers de votre projet dans Codespaces ont bien été ajoutés à votre dépôt distant. 
 
+Première modification depuis GitHub Codespaces.
